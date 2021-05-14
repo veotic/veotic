@@ -4,6 +4,6 @@ My name is 𝐀𝐧𝐠𝐞𝐥𝐨, and I'm from the 𝐏𝐡𝐢𝐥𝐢𝐩�
 
 - 🔭 I'm currently working on a secret project😉
 - 🤖 Studying Artificial Intelligence/Machine Learning
-- 💬 Ask me anything about Python & Java or Django/HTML/CSS/JavaScript
+- 💬 Ask me anything about Python/Java/JavaScript or Django/HTML/CSS
 - 📫 Email: compgelo@gmail.com
 - 🤔 Fun Fact: I ❤️ 🐕's

@@ -7,3 +7,5 @@ My name is 𝐀𝐧𝐠𝐞𝐥𝐨, and I'm from the 𝐏𝐡𝐢𝐥𝐢𝐩�
 - 💬 Ask me anything about Python/Java/JavaScript or Django/HTML/CSS/UI/UX
 - 📫 Email: compgelo@gmail.com
 - 🤔 Fun Fact: I ❤️ 🐕's
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=veotic)](https://github.com/anuraghazra/github-readme-stats)

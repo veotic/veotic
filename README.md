@@ -1,4 +1,4 @@
-### Kamusta! 👋
+# 👋 Kamusta! I am Angelo.
 
 # 💫 About Me:
 🎓 Recent CS graduate at UMBC<br>🤖 Loves data science, ML, DBMS, coding in-general<br>🔭 I'm currently working on a secret project😉<br>📫 Email: compgelo@gmail.com<br>🤔 Fun Fact: I ❤️ 🐕's!

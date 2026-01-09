@@ -11,5 +11,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=veotic&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=veotic&icon=0&color=0)](https://visitcount.itsvg.in)
-
+![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=veotic&layout=compact&langs_count=10&theme=midnight-purple&hide=css,html)
 
